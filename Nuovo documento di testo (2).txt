@@ -1,0 +1,12 @@
+<htlm>
+<head>
+<title>Ibiza</title>
+</head>
+<body>
+<center><h1><font color="cyan"> I B I Z A </font color></h1></center>
+<br>br><br>
+<img src="ibiza.jfif"></img src>
+
+
+</body>
+</html>
